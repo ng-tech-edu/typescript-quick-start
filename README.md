@@ -6,7 +6,7 @@
 
 ## 环境配置与类型基础
 
-- TypeScript 引入与课程介绍
+- TypeScript 背景
 
 `10 ~ 15 分钟，有案例`
 
@@ -41,6 +41,14 @@
 参考资料：[TypeScript 篇/复杂类型](https://ngte-pl.gitbook.io/i/?q=TypeScript)。
 
 参考代码：[dockerode-ts-promise](https://parg.co/Nge)
+
+- TypeScript DOM 实战
+
+介绍如何利用 TypeScript 封装常见的 DOM 操作，以及常见的 DOM 类型的介绍。
+
+参考资料：[Web 实战/DOM](https://ngte-web.gitbook.io/i/?q=DOM)。
+
+参考代码：[ueact-utils](https://github.com/wx-chevalier/Ueact/tree/master/framework/packages/ueact-utils)
 
 ## 面试中常见的设计模式
 
